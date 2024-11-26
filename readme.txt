@@ -11,7 +11,8 @@ Explanation of Data Structure and Uniqueness:
             3. If it exists, a new short URL is generated until a unique one is found (5 attempts).
 
 Commands To Run the Project:
-    1. Go to project directory as url-shortener
-    2. npm install (if node_module missing)
-    3. node index.js (start server)
-    4. npm test (run test)
+    1. git clone https://github.com/ShakilMahmud/url-shortener.git
+    2. cd url-shortener
+    3. npm install 
+    4. node index.js (start server)
+    5. npm test (run test)
